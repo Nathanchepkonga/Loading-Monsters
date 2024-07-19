@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0fff0; /* light green */
+    color: #333; /* dark text for contrast */
+  }
+  
+  h1 {
+    color: #228b22; /* darker green for headings */
+    text-align: center;
+  }
+  
+  #monster-container div {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff; /* white background for monster entries */
+  }
+  
+  form {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  form input {
+    margin-right: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  form button {
+    padding: 5px 10px;
+    background-color: #228b22; /* green button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #006400; /* darker green on hover */
+  }
+  
+  #load-more {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #228b22; /* green button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #load-more:hover {
+    background-color: #006400; /* darker green on hover */
+  }
+  
